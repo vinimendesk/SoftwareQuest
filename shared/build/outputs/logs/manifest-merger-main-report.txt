@@ -1,0 +1,13 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest12194556419083217262.xml:2:13-83
+INJECTED from C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest12194556419083217262.xml:2:13-83
+	package
+		INJECTED from C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest12194556419083217262.xml
+	xmlns:android
+		ADDED from C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest12194556419083217262.xml:2:23-81
+uses-sdk
+INJECTED from C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest12194556419083217262.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest12194556419083217262.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\tmp\ProcessLibraryManifest\tempAndroidManifest12194556419083217262.xml

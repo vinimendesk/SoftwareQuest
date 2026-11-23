@@ -1,0 +1,4 @@
+br.uepa.softwarequest.shared-androidMain-0 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\generated\updated_navigation_xml\androidMain\res
+br.uepa.softwarequest.shared-packageAndroidMainResources-1 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\incremental\androidMain\packageAndroidMainResources\merged.dir
+br.uepa.softwarequest.shared-packageAndroidMainResources-2 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\incremental\androidMain\packageAndroidMainResources\stripped.dir
+br.uepa.softwarequest.shared-packageAndroidMainResources-3 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\shared\build\intermediates\packaged_res\androidMain\packageAndroidMainResources\res

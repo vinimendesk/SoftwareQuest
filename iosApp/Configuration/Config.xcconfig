@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=softwarequest
+PRODUCT_BUNDLE_IDENTIFIER=br.uepa.softwarequest.softwarequest$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0

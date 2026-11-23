@@ -1,0 +1,7 @@
+br.uepa.softwarequest.androidApp-pngs-0 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\androidApp\build\generated\res\pngs\debug
+br.uepa.softwarequest.androidApp-updated_navigation_xml-1 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\androidApp\build\generated\updated_navigation_xml\debug
+br.uepa.softwarequest.androidApp-packageDebugResources-2 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\androidApp\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+br.uepa.softwarequest.androidApp-packageDebugResources-3 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\androidApp\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+br.uepa.softwarequest.androidApp-debug-4 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\androidApp\build\intermediates\merged_res\debug\mergeDebugResources
+br.uepa.softwarequest.androidApp-debug-5 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\androidApp\src\debug\res
+br.uepa.softwarequest.androidApp-main-6 C:\Users\Jainer\Documents\projetos\uepa\softlab\softwarequest\androidApp\src\main\res
